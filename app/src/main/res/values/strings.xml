@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PackingApp</string>
+    <string name="ingredients">Ingredients :</string>
+    <string name="steps">Steps :</string>
+    <string name="appwidget_text">Packing App</string>
+    <string name="add_widget">Add widget</string>
+    <string name="RecipesUrl">https://d17h27t6h515a5.cloudfront.net/topher/2017/May/59121517_baking/baking.json</string>
+    <string name="configure">Select Recipe</string>
+    <string name="recipe_image">Recipe Image</string>
+    <string name="step_thumbinal">Step thumbinal</string>
+
+</resources>
